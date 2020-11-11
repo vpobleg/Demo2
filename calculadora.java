@@ -6,5 +6,6 @@ public class calculadora{
     System.out.println("calculadora seba-aracena:resta");
     System.out.println("angelo-calc-división");
 		System.out.println("AdrianGomezCL-calc-multiplicación");
+		System.out.println("DPerez-calc-gg");
 	}
 }
